@@ -1,0 +1,4 @@
+*.png
+*.exe
+src/output/*/*.csv
+*.out
